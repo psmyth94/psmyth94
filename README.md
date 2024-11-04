@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Patrick!
 
-I currently working on creating a suite of tools to address challenges of applyting ML in bioinformatics:
+I currently working on creating a suite of tools to address challenges of applying ML in bioinformatics:
 
 - [biosets](https://github.com/psmyth94/biosets) - Dataset management and integration in bioinformatics (Released).
 - biofit - Model preprocessing and fitting solutions (90% complete).
