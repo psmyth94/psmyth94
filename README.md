@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Patrick!
 
-I currently working on creating a suite of tools to address challenges of applying ML in bioinformatics:
+I am currently working on creating a suite of tools to address challenges of applying ML in bioinformatics:
 
 - [biosets](https://github.com/psmyth94/biosets) - Dataset management and integration in bioinformatics (Released).
-- biofit - Model preprocessing and fitting solutions (90% complete).
-- biorun - An autotrainer for streamlined ML model training (70% complete).
-- bioserve - Tools for deploying, analyzing, and comparing bioinformatics models (50% complete).
+- `biofit` - Model preprocessing and fitting solutions (90% complete).
+- `biorun` - An autotrainer built on top of `biosets` and `biofit` (70% complete).
+- `bioserve` - Tools for deploying, analyzing, and comparing bioinformatics models (50% complete).
 
 #### Medical Imaging
 
